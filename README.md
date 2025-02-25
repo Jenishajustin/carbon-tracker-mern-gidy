@@ -89,6 +89,36 @@ The backend will start running on `http://localhost:5000/` (default port).
 | POST   | /api/auth/signup| User signup           |
 | PUT    | /api/profile    | Update profile data   |
 
+
+### 1️⃣ Create a Trip
+
+POST /api/trips
+
+Request Body:
+
+{
+  "from": "New York",
+  "to": "Los Angeles",
+  "distance": 4500,
+  "duration": "6h"
+}
+
+Response:
+
+{
+  "_id": "650f1a24b1",
+  "from": "New York",
+  "to": "Los Angeles",
+  "distance": 4500,
+  "duration": "6h",
+  "carbonEmission": 540
+}
+
+### 2️⃣ Get All Trips
+
+GET /api/trips
+
+
 ---
 
 ## ⚡ Future Enhancements
