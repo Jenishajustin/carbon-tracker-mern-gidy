@@ -98,15 +98,5 @@ The backend will start running on `http://localhost:5000/` (default port).
 
 ---
 
-## 🤝 Contributing
-If you'd like to contribute, please fork the repository and submit a pull request. Feedback and suggestions are welcome!
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
 🌍 **EcoTrack – Making the world a greener place, one step at a time!**
 
