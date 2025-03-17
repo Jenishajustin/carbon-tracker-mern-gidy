@@ -120,7 +120,13 @@ GET /api/trips
 ```
 
 ---
+## Screenshots (will be completed and updated soon)
 
+
+https://github.com/user-attachments/assets/033ac9c4-f02c-4db2-a0cd-3a61c0386379
+
+
+---
 ## ⚡ Future Enhancements
 - Implement push notifications for eco-friendly reminders
 - Add social sharing for emission reductions
