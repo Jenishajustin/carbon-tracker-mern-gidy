@@ -121,9 +121,19 @@ GET /api/trips
 
 ---
 ## Quick video of our EcoTrack (will be completed and updated soon)
-
+### Frontend
 
 https://github.com/user-attachments/assets/033ac9c4-f02c-4db2-a0cd-3a61c0386379
+
+
+### Backend
+
+
+https://github.com/user-attachments/assets/323b1bb5-2441-49f3-9da5-1312f3195527
+
+
+![WhatsApp Image 2025-02-22 at 10 56 58_6efc3dab](https://github.com/user-attachments/assets/4c92268d-a5ce-4faa-b829-27cf5b15b7a8)
+
 
 
 ---
