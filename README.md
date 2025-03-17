@@ -120,7 +120,7 @@ GET /api/trips
 ```
 
 ---
-## Screenshots (will be completed and updated soon)
+## Quick video of our EcoTrack (will be completed and updated soon)
 
 
 https://github.com/user-attachments/assets/033ac9c4-f02c-4db2-a0cd-3a61c0386379
